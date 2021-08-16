@@ -47,7 +47,7 @@ Users should be able to:
 
 - How to use filter for a svg image:
 
-```scss
+```css
   filter: invert(98%) sepia(4%) saturate(0%) hue-rotate(250deg) brightness(101%) contrast(101%);
 ```
 
