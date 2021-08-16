@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL here](https://your-solution-url.com)
-- Live Site URL: [live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/responsive-mobile-first-using-sass-flexbox-and-grid-MM-CK-f61)
+- Live Site URL: [live site URL here](https://costivoicu.github.io/Huddle-landing-page-with-a-single-introductory-section/)
 
 ## My process
 
